@@ -9,6 +9,7 @@ Prérequis : JDK 21 et Maven 3.9.11.
 ```
 mvn test
 ```
+Les règles métier détaillées sont dans le dossier `docs`.
 
 ## Règles du panier
 
