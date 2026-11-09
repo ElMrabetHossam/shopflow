@@ -10,7 +10,15 @@ import java.util.NoSuchElementException;
 
 /**
  * Le panier d'un client ShopFlow.
+ *
+ * <p>Règles métier appliquées (voir le README) :
+ * <ul>
+ *   <li>R3 : au plus 10 unités d'un même produit ;</li>
+ *   <li>R5 : livraison de 30 DH, offerte dès que le sous-total atteint 500 DH ;</li>
+ *   <li>R6 : remise d'un code promo calculée sur le sous-total uniquement.</li>
+ * </ul>
  */
+
 public class Panier {
 
     public static final int QUANTITE_MAX_PAR_PRODUIT = 10;
