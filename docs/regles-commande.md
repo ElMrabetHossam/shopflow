@@ -10,3 +10,5 @@ Règles validées par Nadia, vérifiées par la classe `ServiceCommandeTest` (TP
 | C4 | Paiement accepté : commande enregistrée CONFIRMEE, puis e-mail de confirmation. |
 | C5 | Paiement refusé : stock libéré, rien n'est enregistré, aucun e-mail n'est envoyé. |
 | C6 | Une panne de l'envoi d'e-mail n'annule pas une commande payée. |
+
+Une commande refusée ne laisse aucune trace dans la base.
