@@ -26,5 +26,3 @@ Les règles métier détaillées sont dans le dossier `docs`.
 - Nadia : responsable produit
 - Yassine : développeur
 - Karim : support client
-
-## Feuille de route
