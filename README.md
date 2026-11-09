@@ -2,6 +2,8 @@
 
 Boutique en ligne de matériel informatique : catalogue, panier et commande.
 
+Livraison partout au Maroc.
+
 ## Construire et tester
 
 Prérequis : JDK 21 et Maven 3.9.11.
