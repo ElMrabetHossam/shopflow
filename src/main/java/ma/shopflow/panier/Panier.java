@@ -13,9 +13,9 @@ import java.util.NoSuchElementException;
  *
  * <p>Règles métier appliquées (voir le README) :
  * <ul>
- *   <li>au plus 10 unités d'un même produit ;</li>
- *   <li>livraison de 30 DH, offerte dès que le sous-total atteint 500 DH ;</li>
- *   <li>remise d'un code promo calculée sur le sous-total uniquement.</li>
+ *   <li>R3 : au plus 10 unités d'un même produit ;</li>
+ *   <li>R5 : livraison de 30 DH, offerte dès que le sous-total atteint 500 DH ;</li>
+ *   <li>R6 : remise d'un code promo calculée sur le sous-total uniquement.</li>
  * </ul>
  */
 
